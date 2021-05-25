@@ -1,4 +1,4 @@
-# Ender 3 Po Repository
+# Ender 3 Pro Repository
 
 This repository contains projects related to Ender 3 Pro 3D Printers
 
