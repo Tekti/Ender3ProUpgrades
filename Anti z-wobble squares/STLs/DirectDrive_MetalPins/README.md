@@ -19,6 +19,6 @@ Assembly:
 5. Insert all left magnets in Top and Bottom part in the way that they will be attracted correctly with middle part. All magents needs to attract each other
 6. Mount device on Ender and enjoy :)
 
-<img src="Anti z-wobble squares/Photos/Assembly.jpg">
-<img src="Anti z-wobble squares/Photos/Inside.jpg">
+<img src="../../Photos/Assembly.jpg">
+<img src="../../Photos/Inside.jpg">
 
