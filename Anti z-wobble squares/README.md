@@ -38,5 +38,15 @@ Additional parts:
 -   <i>Square_Middle_Bowden_45deg.stl</i> - middle part
 
 
+### Metal Pins
+
+Updated version with metal pins is added to repository. This version uses 32 additional metal pins (fi 2mm, length 8mm) on which steel balls are placed. Number of steel ball per layer was also doubled (4 per layer) to create full working plane.
+
+Additional parts:
+-   M3 8mm screws - 4x
+-   6x3mm magnets - 12x
+-   4mm steel balls (I took mine from 628 bearing) - 8x
+-   Metal pins - Length: 8mm, fi: 2mm - 32x
+
 __Design was made based on idea from HevOrt community and EvoMotors execution: https://www.thingiverse.com/thing:4785945__
 
