@@ -11,3 +11,5 @@ Inside_+/-1mm can be used to better adjust positiong of the belt, so there is no
 
 Additional parts:
 -   M4 20mm screws - 2x
+
+<img src="Y-axis tenstioner/Photos/Model.PNG">
